@@ -3,6 +3,8 @@
 
 - 👨‍💻 Here is a link to my portfolio: [https://joyceyu.netlify.app/](https://joyceyu.netlify.app/)
 
+- 🔭 I’m currently working on [a React app for a Health Clinic to keep track of volunteer hours.](https://github.com/ari-denary/volunteer-management-frontend)
+
 - ⚡ Fun fact: **I am currently learning to do my first muscle up!**
 
 <h3 align="left">Connect with me:</h3>
